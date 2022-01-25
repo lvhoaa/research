@@ -2,6 +2,7 @@
 DONE BY LA VAN HOA 
 
 A comparison of 2 approaches to prove efficiency of data-centric AI
+This code is just a draft. Not including EDA, different evaluation techniques.
 
 res1.ipynb is the first file : model-centric AI approach.
 
