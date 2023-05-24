@@ -1,8 +1,9 @@
 # research
 DONE BY LA VAN HOA 
 
+LINK PUBLISHED PAPER: https://emerginginvestigators.org/articles/comparing-model-centric-and-data-centric-approaches-to-determine-the-efficiency-of-data-centric-ai
+
 A comparison of 2 approaches to prove efficiency of data-centric AI
-This code is just a draft. Not including EDA, different evaluation techniques.
 
 res1.ipynb is the first file : model-centric AI approach.
 
